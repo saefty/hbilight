@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>e27_off_waca.svg</file>
+        <file>e27_on_waca.svg</file>
+    </qresource>
+</RCC>
